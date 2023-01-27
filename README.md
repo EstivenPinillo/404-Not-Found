@@ -9,11 +9,11 @@
 <div align="center">
   <h3>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://estivenpinillo.dev/404-not-found-master/index.html" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="_blank">
       Challenge
     </a>
   </h3>
